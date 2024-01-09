@@ -12,4 +12,4 @@ iii) Forgot Password
 
 Includes data validation (i.e. password requirement), authorization and a feature to change password in case forgotten.
 
-![Database Information](Database Details.png)
+![Database Information](https://github.com/Varunkumar0812/Registration-Login-System-Console-Based/blob/main/Database%20Details.png)
