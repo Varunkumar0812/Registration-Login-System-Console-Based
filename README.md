@@ -1,8 +1,13 @@
-# java_assignment1
-Java Assignment - Registration and Login Simulation - Menu-driven console based program
+# Registration and Login System - Console based Application
 
-Write a menu-driven program to simulate the user login with the following features.
+Registration and Login Simulation - Menu-driven console based program.
+
+A Menu driven program that simulates the registration and login of a user. Fetches data from a MySQL database. 
+
   i) New User Registration
+  
  ii) Login
-iii) Forgot Password (Optional)
-Also add certain conditions for password creation. (like minimum length, special characters etc). Establish a connection with the database and store the users details in a table.
+ 
+iii) Forgot Password
+
+Includes data validation (i.e. password requirement), authorization and a feature to change password in case forgotten.
