@@ -12,4 +12,5 @@ iii) Forgot Password
 
 Includes data validation (i.e. password requirement), authorization and a feature to change password in case forgotten.
 
+The Database Schema is as follows :
 ![Database Information](https://github.com/Varunkumar0812/Registration-Login-System-Console-Based/blob/main/Database%20Details.png)
