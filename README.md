@@ -12,4 +12,4 @@ iii) Forgot Password
 
 Includes data validation (i.e. password requirement), authorization and a feature to change password in case forgotten.
 
-![alt Database Information](./database.png)
+![alt Database Information](./Database_Details.png)
