@@ -9,7 +9,7 @@ A Menu driven program that simulates the registration and login of a user. Fetch
  ii) Login
  
 iii) Forgot Password
-
+ 
 Includes data validation (i.e. password requirement), authorization and a feature to change password in case forgotten.
 
 The Database Schema is as follows :
