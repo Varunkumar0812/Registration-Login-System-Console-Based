@@ -11,3 +11,5 @@ A Menu driven program that simulates the registration and login of a user. Fetch
 iii) Forgot Password
 
 Includes data validation (i.e. password requirement), authorization and a feature to change password in case forgotten.
+
+![alt Database Information](./database.png)
